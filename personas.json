@@ -1,0 +1,38 @@
+[
+  {
+    "nombre": "ruben",
+    "apellido": "ramirez",
+    "sexo": "Masculino",
+    "estado_civil": "Soltero"
+  },
+  {
+    "nombre": "Ivan",
+    "apellido": "Peterlik",
+    "sexo": "Masculino",
+    "estado_civil": "Casado"
+  },
+  {
+    "nombre": "Ana",
+    "apellido": "García",
+    "sexo": "Femenino",
+    "estado_civil": "Soltera"
+  },
+  {
+    "nombre": "Luis",
+    "apellido": "Torres",
+    "sexo": "Masculino",
+    "estado_civil": "Casado"
+  },
+  {
+    "nombre": "Josue",
+    "apellido": "Alfaro",
+    "sexo": "Masculino",
+    "estado_civil": "Casado"
+  },
+  {
+    "nombre": "Pedro",
+    "apellido": "Alvares",
+    "sexo": "Masculino",
+    "estado_civil": "Casado"
+  }
+]
